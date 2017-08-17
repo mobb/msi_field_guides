@@ -1,0 +1,1 @@
+CREATE TABLE faqs ( id INTEGER PRIMARY KEY, question VARCHAR(50), answerURL VARCHAR(50), imageName VARCHAR(50), thumbnailName VARCHAR(50) );

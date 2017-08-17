@@ -1,0 +1,13 @@
+
+
+CREATE TABLE organisms ( id INTEGER PRIMARY KEY, 
+commonName VARCHAR(50), 
+groupName VARCHAR(50), 
+scientificName VARCHAR(50), 
+taxonomy TEXT, 
+description TEXT, 
+distribution TEXT, 
+habitat TEXT,
+diet TEXT, 
+quickFacts TEXT, 
+refs TEXT );
