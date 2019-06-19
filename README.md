@@ -10,6 +10,6 @@ History:
 |2012 | California Tidepools - intertidal field guide | iphone | Carol Blanchette | Brian Green, Doug Whetter? | code had been in dropbox|
 |2012 | California Tidepools - intertidal field guide | android | | Ivan Genov| code in bitbucket |
 |20__ | Kelp Forest field guide |iphone | |Brian Green? | | |
-|2017 | Beach field guide | iphone | Nick Schooler | Gus Siegel | 
+|2017 | Beach field guide | iphone | Nick Schooler | Gus Siegel | code in github (partial) | 
 
 
